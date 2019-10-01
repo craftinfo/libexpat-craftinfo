@@ -10,5 +10,5 @@ not require a C++ compiler:
 
 
 ```console
-mulle-sde dependency add --c  https://github.com/mulle-nat/libexpat/archive/R_2_2_1.C.tar.gz
+mulle-sde dependency add --c --singlephase https://github.com/mulle-nat/libexpat/archive/R_2_2_1.C.tar.gz
 ```
