@@ -1,11 +1,11 @@
 cmake_minimum_required( VERSION 3.0)
 
-project( expat NONE)
+project( libexpat NONE)
 
 file( GLOB DEFINITION_DIRS
    definition*
 )
 
 foreach( DIR ${DEFINITION_DIRS} )
-   install( DIRECTORY "${DIR}" DESTINATION "share/mulle-craft/expat")
+   install( DIRECTORY "${DIR}" DESTINATION "share/mulle-craft/libexpat")
 endforeach()
