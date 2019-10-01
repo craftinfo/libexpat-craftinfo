@@ -1,6 +1,6 @@
-#〈〉 Craftinfo to build the expat parser
+#〈〉 Craftinfo to build the expat parser library
 
-[expat](https://github.com/libexpat/libexpat)
+[libexpat](https://github.com/libexpat/libexpat)
 
 
 ## Install
