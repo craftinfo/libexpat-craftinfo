@@ -5,7 +5,7 @@
 
 ## Install
 
-Slightly modified version without tests and a `CMakeLists.txt` bugfix, to
+Uses a slightly modified version from [mulle-nat](https://github.com/mulle-nat) without tests and a `CMakeLists.txt` bugfix, to
 not require a C++ compiler:
 
 
